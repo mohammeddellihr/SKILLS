@@ -1,6 +1,6 @@
 ---
 name: front-end-developer
-description: A description of what this skill does and when to use it.
+description: Provides comprehensive guidelines, best practices, and standard UI patterns for front-end development. Use this skill when building or styling web interfaces, creating UI components (like buttons, forms, modals, tables, or alerts), or when the user asks for frontend standards, CSS rules, HTML structure, responsive design, typography, or color usage.
 ---
 
 ## Guidelines
