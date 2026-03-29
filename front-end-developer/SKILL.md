@@ -20,7 +20,9 @@ description: Provides comprehensive guidelines, best practices, and standard UI 
 ## Layouts
 
 - [Content Block](references/layouts/content-block.md)
+- [Data Grid](references/layouts/data-grid.md)
 - [Footer](references/layouts/footer.md)
 - [Header](references/layouts/header.md)
 - [Page Header](references/layouts/page-header.md)
+- [Pagination](references/layouts/pagination.md)
 - [Standard Layout](references/layouts/standard-layout.md)
