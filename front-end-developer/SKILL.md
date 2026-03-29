@@ -17,10 +17,10 @@ description: Provides comprehensive guidelines, best practices, and standard UI 
 
 ## Components
 
-- [Content Block](references/components/content-block.md)
-- [Footer](references/components/footer.md)
-- [Header](references/components/header.md)
-- [Page Header](references/components/page-header.md)
+- [Content Block](references/layouts/content-block.md)
+- [Footer](references/layouts/footer.md)
+- [Header](references/layouts/header.md)
+- [Page Header](references/layouts/page-header.md)
 
 ## Layouts
 
