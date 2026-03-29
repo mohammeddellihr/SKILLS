@@ -14,3 +14,14 @@ description: Provides comprehensive guidelines, best practices, and standard UI 
 - [Modals](references/guidelines/modals.md)
 - [Tables](references/guidelines/tables.md)
 - [Typography](references/guidelines/typography.md)
+
+## Components
+
+- [Content Block](references/components/content-block.md)
+- [Footer](references/components/footer.md)
+- [Header](references/components/header.md)
+- [Page Header](references/components/page-header.md)
+
+## Layouts
+
+- [SaaS Layout](references/layouts/saas-layout.md)
