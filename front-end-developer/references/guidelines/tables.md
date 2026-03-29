@@ -68,3 +68,221 @@
     </div>
 </td>
 ```
+
+### Table
+
+``` html
+<div class="col-12">
+  <div class="card">
+    <div class="table-responsive">
+      <table class="table table-vcenter table-nowrap card-table">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Name</th>
+            <th class="w-1">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/1">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>AFGHANISTAN</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/1">View</a>
+                <a class="btn" href="/nationalities/1/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/2">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ALBANIA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/2">View</a>
+                <a class="btn" href="/nationalities/2/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/3">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ALGERIA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/3">View</a>
+                <a class="btn" href="/nationalities/3/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/4">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ANGOLA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/4">View</a>
+                <a class="btn" href="/nationalities/4/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/5">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ANGUILLA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/5">View</a>
+                <a class="btn" href="/nationalities/5/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/6">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ANTIGUA AND BARBUDA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/6">View</a>
+                <a class="btn" href="/nationalities/6/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/7">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ARGENTINA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/7">View</a>
+                <a class="btn" href="/nationalities/7/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/8">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ARMENIA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/8">View</a>
+                <a class="btn" href="/nationalities/8/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/9">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>ARUBA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/9">View</a>
+                <a class="btn" href="/nationalities/9/update">Update</a>
+              </div>
+            </td>
+          </tr>
+          <!-- Row -->
+          <tr>
+            <td>
+              <a href="/nationalities/10">
+                <span class="avatar avatar-2">
+                  <!-- avatar icon -->
+                </span>
+              </a>
+            </td>
+            <td>AUSTRALIA</td>
+            <td>
+              <div class="btn-list flex-nowrap">
+                <a class="btn" href="/nationalities/10">View</a>
+                <a class="btn" href="/nationalities/10/update">Update</a>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="card-footer">
+      <div class="d-flex justify-content-between">
+        <div>
+          <div class="btn-list">
+            <a class="btn btn-primary disabled d-sm-none btn-icon" href="#">
+              <!-- arrow left icon -->
+            </a>
+            <a class="btn btn-primary disabled d-none d-sm-inline-block" href="#">
+              <!-- arrow left icon -->
+              Previous
+            </a>
+          </div>
+        </div>
+        <div>
+          <div class="btn-list">
+            <a class="btn btn-primary d-sm-none btn-icon" href="/nationalities/?page=2">
+              <!-- arrow right icon -->
+            </a>
+            <a class="btn btn-primary d-none d-sm-inline-block" href="/nationalities/?page=2">
+              <!-- arrow right icon -->
+              Next
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+```
