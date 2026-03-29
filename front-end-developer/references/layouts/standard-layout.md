@@ -1,6 +1,6 @@
-# SaaS Layout Structure
+# Standard Layout Structure
 
-This defines the specific structural layout pattern used for our SaaS (Software as a Service) dashboard applications.
+This defines the specific structural layout pattern used across our dashboard and web applications.
 
 ## High-Level Structure
 - **Header / Sidebar**

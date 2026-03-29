@@ -24,4 +24,4 @@ description: Provides comprehensive guidelines, best practices, and standard UI 
 
 ## Layouts
 
-- [SaaS Layout](references/layouts/saas-layout.md)
+- [Standard Layout](references/layouts/standard-layout.md)

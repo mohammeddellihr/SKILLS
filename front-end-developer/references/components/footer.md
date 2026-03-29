@@ -8,10 +8,10 @@ The bottom section of a page or site. It closes the visual flow and provides sec
 
 ## Context-Specific Examples
 
-### SaaS Application Footer
+### Application / Dashboard Footer
 Often minimal within the application itself to maximize screen real estate for the main content.
 - **Content**: Small text displaying copyright, version number, and links to support or documentation.
-- **Example**: "© 2024 Acme Corp. v1.2.3 | Support | Terms"
+- **Example**: "© 2024 App Name. v1.2.3 | Support | Terms"
 
 ### Marketing / Landing Page Footer
 Typically larger ("Fat Footer") containing multiple columns of information.

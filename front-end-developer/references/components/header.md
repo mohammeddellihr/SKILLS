@@ -8,10 +8,8 @@ The top section of the page, typically containing branding and primary navigatio
 - Utility Section (Search, User actions, Settings)
 - Mobile Menu Toggle (For responsive views)
 
-## Context-Specific Examples
-
-### SaaS / Dashboard Header Implementation
-For our dashboard applications (using Bootstrap / Tabler UI patterns), the header must follow this exact HTML structure:
+## Standard Header Implementation
+For all our applications (using Bootstrap / Tabler UI patterns), the header must follow this exact HTML structure:
 
 #### Full Example Structure
 ```html
@@ -87,8 +85,3 @@ For our dashboard applications (using Bootstrap / Tabler UI patterns), the heade
 - **User Dropdown**: Always place `navbar-nav flex-row order-md-last` so the user menu stays on the right and remains visible or easily accessible on mobile. Avatar + Name/Email (hidden on small screens using `d-none d-xl-block`).
 - **Logout Action**: Ensure the logout button is visually distinct using `.text-danger`.
 - **Navigation Links**: Wrap links in `.navbar-collapse` targeting `#navbar-menu`. Menu items use `.nav-item` and `.nav-link`, with text inside `<span class="nav-link-title">`.
-
-### Landing Page Header
-- **Branding**: Company Logo linking to Home
-- **NavigationSystem**: Simple horizontal list of links (Features, Pricing, About)
-- **Call to Action**: Prominent "Sign Up" or "Get Started" button
